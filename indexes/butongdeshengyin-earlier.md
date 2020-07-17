@@ -1,4 +1,3 @@
-#### [专栏 | 不同的声音：我和我的祖国，象海和浪花一朵 他和她的香港，半句都不能言说](../pages/butongdeshengyin/jkdv-10172019210234.md)
 #### [专栏 | 不同的声音：接受耿爽建议：关注中国普通人“为自由而战”的民意](../pages/butongdeshengyin/jkdv-10112019153458.md)
 #### [“谋杀”硝烟下，访勇武派大三生李世豪](../pages/butongdeshengyin/jkdv-10022019152319.md)
 #### [专栏 | 不同的声音：美余在黎明前死去](../pages/butongdeshengyin/jkdv-09232019165235.md)
@@ -11,6 +10,7 @@
 #### [专栏 | 不同的声音：虹口变堂口 倭区成红区：景云里强迁新语](../pages/butongdeshengyin/jkdv-08022019104512.md)
 #### [专栏 | 不同的声音：第一书记仲山村劫富济贫拍案惊奇](../pages/butongdeshengyin/jkdv-07262019161648.md)
 #### [专栏 | 不同的声音：向日葵农庄：骚乱、维稳间动荡的家园](../pages/butongdeshengyin/jkdv-07192019123832.md)
+#### [专栏 | 不同的声音：爆料的门槛](../pages/butongdeshengyin/jkdv-07162020115343.md)
 #### [专栏 | 不同的声音：访本土市民吕新华：第三只眼看阳逻“骚乱”](../pages/butongdeshengyin/jkdv-07102019155732.md)
 #### [专栏 | 不同的声音：告别恐惧 ](../pages/butongdeshengyin/jkdv-07062020175735.md)
 #### [专栏 | 不同的声音：六四到七四的传承  董瑶琼泼墨周年赋](../pages/butongdeshengyin/jkdv-06282019161700.md)

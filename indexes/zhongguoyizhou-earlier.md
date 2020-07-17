@@ -1,4 +1,3 @@
-#### [专栏 | 中国一周（2019年11月09日-11月15日）](../pages/zhongguoyizhou/review-11142019162515.md)
 #### [专栏 | 中国一周（2019年11月02日-11月08日）](../pages/zhongguoyizhou/review-11072019162342.md)
 #### [专栏 | 中国一周（2019年10月26日-11月1日）](../pages/zhongguoyizhou/review-10312019165604.md)
 #### [专栏 | 中国一周（2019年10月19日-10月25日）](../pages/zhongguoyizhou/review-10242019160321.md)
@@ -16,6 +15,7 @@
 #### [专栏 | 中国一周（2019年7月27日-8月2日）](../pages/zhongguoyizhou/review-08012019162056.md)
 #### [专栏 | 中国一周（2019年7月20日-7月26日）](../pages/zhongguoyizhou/review-07252019164356.md)
 #### [专栏 |中国一周（2019年7月13日-7月19日）](../pages/zhongguoyizhou/review-07182019160525.md)
+#### [专栏 | 中国一周（2020年7月11日-2020年7月17日）](../pages/zhongguoyizhou/review-07162020162625.md)
 #### [专栏 | 中国一周（2020年7月4日-2020年7月10日）](../pages/zhongguoyizhou/review-07092020172058.md)
 #### [专栏 | 中国一周（2020年6月27日-2020年7月3日）](../pages/zhongguoyizhou/review-07032020170003.md)
 #### [专栏 | 中国一周（2020年6月20日-2020年6月26日）](../pages/zhongguoyizhou/review-06262020110622.md)
