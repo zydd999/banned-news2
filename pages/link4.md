@@ -7,7 +7,7 @@
 #### 时政评论：[江峰时刻](http://108.61.172.149/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://108.61.172.149/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://108.61.172.149/tianliang/) &nbsp;|&nbsp; [热点互动](http://108.61.172.149/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://108.61.172.149/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://108.61.172.149/teahouse/)  [明居正透視中國](http://108.61.172.149/decoding-china/)  &nbsp;|&nbsp; [公子时评](http://108.61.172.149/gongzi/)  &nbsp;|&nbsp; [薇羽看世間](http://108.61.172.149/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://108.61.172.149/taiwan/)   
 
 
-#### 网站代理：[大纪元新闻网](http://141.164.63.69:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://141.164.63.69:8000/gb/)
+#### 网站代理：[大纪元新闻网](http://141.164.63.68:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://141.164.63.68:8000/gb/)
 
 #### 财经评论：[秦鹏政经观察](http://108.61.172.149/qinpeng/) &nbsp;|&nbsp; [子弘闲谈](http://108.61.172.149/zihong/) &nbsp;|&nbsp; [财经冷眼](http://108.61.172.149/lengyan/) 
 
