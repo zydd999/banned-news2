@@ -3,15 +3,15 @@
 #### [美财长：受疫情重创小企业 可申领第2轮纾困贷款](../pages/prog203/a102896519.md?t=07181251) 
 #### [川普批民主党辖区暴力激增：“愚蠢管理”城市](../pages/prog203/a102896451.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [川普：削减监管法规 让每个美国人受益](../pages/prog203/a102896315.md?t=07181251) 
 #### [协助走私芬太尼 美财政部制裁四中国人](../pages/prog203/a102896286.md?t=07181251) 
 #### [金斯伯格癌症复发 最高法院席位再惹关注](../pages/prog203/a102896260.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [【重播】蓬佩奥发表演讲：信念、工作和国家（同声翻译）](../pages/prog203/a102896263.md?t=07181251) 
 #### [美拟驱逐中共党员出境 美国华人急办退党](../pages/prog203/a102896235.md?t=07181251) 
 #### [美司法部长讲话全文：硅谷好莱坞停止向中共叩头](../pages/prog203/a102896228.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [中共专家奇论：美禁党员入境是想“颠覆共产党”](../pages/prog203/a102896216.md?t=07181251) 
 #### [批黑人之死不公却对港人受害沉默 美大公司被揭利益优先](../pages/prog203/a102896206.md?t=07181251) 
 #### [巴尔：好莱坞迪斯尼屈服中共 后果严重](../pages/prog203/a102896108.md?t=07181251) 
@@ -35,4 +35,4 @@
 #### [推特遭大规模攻击 马斯克拜登等中招](../pages/prog203/a102895369.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=07181302)

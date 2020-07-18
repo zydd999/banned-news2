@@ -3,15 +3,15 @@
 #### [蓬佩奥：世界强国联手对抗中共威胁](../pages/nf4514/n12264739.md?t=07181251) 
 #### [【思想领袖】格里克：美中都撒钱 有何不同？](../pages/nf4514/n12173862.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [法轮功反迫害21周年 悉尼各界声援](../pages/nf4514/n12263043.md?t=07181251) 
 #### [【一线采访】保长江与大城市 安徽泄洪淹多村](../pages/nf4514/n12264148.md?t=07181251) 
 #### [涉芬太尼贩运 四中国人和一实体遭美制裁](../pages/nf4514/n12264427.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [【图解】美国务院记录法轮功受迫害情况](../pages/nf4514/n12264329.md?t=07181251) 
 #### [美司法部长对华演讲全文：应对独裁兵工厂](../pages/nf4514/n12263972.md?t=07181251) 
 #### [美“凌迟式”制裁 港亲共高官承认寒蝉效应](../pages/nf4514/n12264061.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [中共党员及家属或被美限入境 内部掀恐慌](../pages/nf4514/n12263801.md?t=07181251) 
 #### [洛杉矶中国移民眼中的《大纪元时报》](../pages/nf4514/n12262157.md?t=07181251) 
 #### [美拟驱逐中共党员出境  华人急办退党](../pages/nf4514/n12262516.md?t=07181251) 
@@ -65,4 +65,4 @@
 #### [河南洛阳整村被逼迁 村民扛煤气罐反抗](../pages/nf4514/n12255733.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=07181302)

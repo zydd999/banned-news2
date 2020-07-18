@@ -3,15 +3,15 @@
 #### [帝尧众臣被孔壬巧言所惑意见分歧  指佞草显奇迹看呆众臣](../pages/soh4/389455.md?t=07181251) 
 #### [台湾仅剩三人的姓氏，百家姓中都没有它，濒临灭绝](../pages/soh4/243585.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [黄帝时期的木正在帝尧庭园中发现异草  帝尧拜尹寿为师](../pages/soh4/389407.md?t=07181251) 
 #### [帝尧回都途中遇一出生奇异的童子 想见其师傅得成否？](../pages/soh4/389011.md?t=07181251) 
 #### [惨烈的淞沪会战 蒋介石把日军完整周密的整套部署全部打乱](../pages/soh4/389887.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [ 帝尧出巡遇见黄帝时期的官木正 多少岁啦？黄帝升仙时他在哪？](../pages/soh4/388633.md?t=07181251) 
 #### [帝尧竟有两个弟弟势如水火 典故“势如参商”的由来](../pages/soh4/388333.md?t=07181251) 
 #### [大哥太子不做皇帝 二哥树精也不做皇帝 成就千年皇族和睦典范](../pages/soh4/274665.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [赵高唆使胡亥酷法苛政 秦始皇其他子女、功臣、李斯等结局如何？](../pages/soh4/385027.md?t=07181251) 
 #### [所谓的秦朝“苛政厉法”是真的吗？出土云梦秦简讲清真相](../pages/soh4/384247.md?t=07181251) 
 #### [帝尧的哥哥后稷因何遭母再三抛弃？](../pages/soh4/384316.md?t=07181251) 
@@ -25,4 +25,4 @@
 #### [“皇帝”称号的来历 秦始皇建立了怎样的体制，沿袭后世二千多年？ ](../pages/soh4/382015.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh4-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh4-earlier.md?t=07181302)

@@ -3,15 +3,15 @@
 #### [龙马引入仙洞 洞府半月人间六十年](../pages/prog647/a102895864.md?t=07181251) 
 #### [地仙传说（十）](../pages/prog647/a102895856.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [摆脱死神后 执迷老人终于醒悟](../pages/prog647/a102895851.md?t=07181251) 
 #### [华盛顿将军系列故事：胜利或者死亡](../pages/prog647/a102895731.md?t=07181251) 
 #### [【涛哥侃封神】第一回 纣王女娲宫进香（下）](../pages/prog647/a102895712.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [报应绝非虚妄 当官者应引以为戒](../pages/prog647/a102894994.md?t=07181251) 
 #### [地仙传说（九）](../pages/prog647/a102894987.md?t=07181251) 
 #### [【康熙大帝】盛世下的西洋景观（下）](../pages/prog647/a102894890.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [【江峰剧场】南北战争（序）](../pages/prog647/a102894721.md?t=07181251) 
 #### [【涛哥侃封神】第一回 纣王女娲宫进香](../pages/prog647/a102894437.md?t=07181251) 
 #### [【佳人传】倜傥有丈夫气的王端淑](../pages/prog647/a102894241.md?t=07181251) 
@@ -35,4 +35,4 @@
 #### [地仙传说（一）](../pages/prog647/a102889604.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md?t=07181302)

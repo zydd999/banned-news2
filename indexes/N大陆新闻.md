@@ -3,15 +3,15 @@
 #### [前所未见 三峡库位超出警戒水位12米](../pages/prog204/a102896558.md?t=07181251) 
 #### [美制裁名单 韩正林郑邓炳强上榜](../pages/prog204/a102896525.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [美国吹响灭共集结号 分析：中共求饶已经晚了！](../pages/prog204/a102896508.md?t=07181251) 
 #### [7常委真出事了？习召开网络会议引猜测](../pages/prog204/a102896485.md?t=07181251) 
 #### [长江2号洪水形成 重庆万州被淹 三峡吃紧](../pages/prog204/a102896349.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [【疫情更新23】美拟禁中共党员入境 三退证明可解困](../pages/prog204/a102892257.md?t=07181251) 
 #### [传乌鲁木齐全封闭7天 内部通知曝新疆多地爆疫情](../pages/prog204/a102896281.md?t=07181251) 
 #### [长江2号洪水猛灌三峡大坝  4天后抵达武汉](../pages/prog204/a102896302.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [【禁闻】三峡水库再传警讯 长江2020年第2号洪水形成](../pages/prog204/a102896384.md?t=07181251) 
 #### [【禁闻】防政变？北戴河会前北京卫戍区司令员换人](../pages/prog204/a102896305.md?t=07181251) 
 #### [【禁闻】7月17日退党精选](../pages/prog204/a102896279.md?t=07181251) 
@@ -33,4 +33,4 @@
 #### [中国太湖达最高防洪水位 当局急发红色预警](../pages/prog204/a102895743.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md?t=07181302)

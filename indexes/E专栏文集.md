@@ -3,15 +3,15 @@
 #### [【纪元专栏】应对病毒流行 渥京未以加人为先引担忧](../pages/nsc423/n11875714.md?t=07181251) 
 #### [【名家专栏】是时候拒绝“封杀文化”了](../pages/nsc423/n11814093.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [“黑科技”治国激发美中科技战](../pages/nsc423/n11638056.md?t=07181251) 
 #### [【名家专栏】老兵节上一段触动心弦的回忆](../pages/nsc423/n11646016.md?t=07181251) 
 #### [【名家专栏】公立学校的起源：集体主义与失败](../pages/nsc423/n11601833.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [臧山：港澳办表态透露四大关键](../pages/nsc423/n11421628.md?t=07181251) 
 #### [臧山：中共缺乏管理开放社会的能力](../pages/nsc423/n11407457.md?t=07181251) 
 #### [臧山：北京面临治乱大转折](../pages/nsc423/n11406895.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [专访胡平：20年打压 法轮功屹立不倒意义深远](../pages/nsc423/n11398800.md?t=07181251) 
 #### [中共最怕“逢九必乱”2019人权战开火](../pages/nsc423/n11385248.md?t=07181251) 
 #### [夏一阳：精神和肉体灭绝的手段—转化洗脑](../pages/nsc423/n11368250.md?t=07181251) 
@@ -65,4 +65,4 @@
 #### [十月革命引百年红祸 俄总统候选人吁下葬列宁](../pages/nsc423/n9810182.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc423-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc423-earlier.md?t=07181302)

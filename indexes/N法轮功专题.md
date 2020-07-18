@@ -3,15 +3,15 @@
 #### [逃离中国 法轮功学员王东曝中共酷刑迫害](../pages/prog424/a102895831.md?t=07181251) 
 #### [假借“反恐” 新疆警察绑架法轮功学员邓翠兰](../pages/prog424/a102894979.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【追查国际】中共解体在即，呼吁全面收集其罪证](../pages/prog424/a102894955.md?t=07181251) 
 #### [“停止迫害法轮功” 美议员谴中共卑鄙](../pages/prog424/a102894190.md?t=07181251) 
 #### [中共触目惊心的经济掠夺（7）](../pages/prog424/a102894096.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [上半年 至少5313名法轮功学员被绑架骚扰](../pages/prog424/a102894087.md?t=07181251) 
 #### [因信仰被抓 加拿大公民呼吁营救姐姐](../pages/prog424/a102893899.md?t=07181251) 
 #### [离奇死亡 家人诉述法轮功学员权忠浩遇害](../pages/prog424/a102893379.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [澳社会活动家：中共须对迫害法轮功罪行负责](../pages/prog424/a102893370.md?t=07181251) 
 #### [参与暴力洗脑 湖北大学充当“打手”的教授](../pages/prog424/a102892454.md?t=07181251) 
 #### [蒙难21年 屏东法轮功夜悼 政要声援反迫害（组图）](../pages/prog424/a102892429.md?t=07181251) 
@@ -34,4 +34,4 @@
 #### [追查国际公布第13批迫害法轮功责任人名单](../pages/prog424/a102887760.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog424-earlier.md?t=07181302)

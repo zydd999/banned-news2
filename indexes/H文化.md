@@ -3,15 +3,15 @@
 #### [天真的有门？  古书中记载的“天门开” 让你大开眼界](../pages/soh3/399814.md?t=07181251) 
 #### [万里长江哪最险？万一漫堤 武汉“高楼阁，变泥岗”](../pages/soh3/400459.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [鬼谷子从两朵花中看出徒弟的命运](../pages/soh3/399397.md?t=07181251) 
 #### [这位亡国之君 却是文武双全 力大无穷 托梁换柱](../pages/soh3/398302.md?t=07181251) 
 #### [牧羊犬奥丁（Odin）临危不惧，救下它的8名下属](../pages/soh3/250950.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [一女16岁都没长牙，求婚者都退婚，突然被选为皇后，一夜牙齿长满](../pages/soh3/243629.md?t=07181251) 
 #### [会有大地震吗？世界上最惨烈的地震发生在明朝后期 死伤83万人 洪水、瘟疫不断](../pages/soh3/397210.md?t=07181251) 
 #### [日食 地鸣？地震前有几个征兆？ 地震后皇帝要做的第一件事](../pages/soh3/397339.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [台湾仅剩三人的姓氏，百家姓中都没有它，濒临灭绝](../pages/soh3/243585.md?t=07181251) 
 #### [大总统的合伙人](../pages/soh3/243524.md?t=07181251) 
 #### [传统婚姻制度反映“千里姻缘一线牵”  也有离婚原则呢？！](../pages/soh3/394405.md?t=07181251) 
@@ -25,4 +25,4 @@
 #### [2020日食遭遇夏至 瘟疫二次爆发愈发诡异  云南地震恐慌 一切才刚刚开始](../pages/soh3/391258.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh3-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh3-earlier.md?t=07181302)

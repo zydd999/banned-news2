@@ -3,15 +3,15 @@
 #### [【史海】“文革”血债：想杀谁就杀谁的“民办枪毙”](../pages/prog1699/a102884298.md?t=07181251) 
 #### [文革处决纪录：非战争下的中国之最](../pages/prog1699/a102882581.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [中共在文革抄家中抄得了多少钱？](../pages/prog1699/a102880758.md?t=07181251) 
 #### [共产党如何把毛思想灌输到人民的脑中？(图)](../pages/prog1699/a102880751.md?t=07181251) 
 #### [“私藏2万张文革底片”摄影记者去世 曾坦言斗人也被人斗(组图)](../pages/prog1699/a102878442.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [没去台湾的民国大师们几乎全部毁于文革浩劫(图)](../pages/prog1699/a102878438.md?t=07181251) 
 #### [政治历史宣传欺骗了我们七十年](../pages/prog1699/a102876579.md?t=07181251) 
 #### [肠子都悔青了！做梦都没想到会杀孩子](../pages/prog1699/a102874720.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [世界上最具欺骗性的哲学──马克思主义](../pages/prog1699/a102873869.md?t=07181251) 
 #### [江青四人帮评唐山地震：抹掉唐山算什么！(组图)](../pages/prog1699/a102870109.md?t=07181251) 
 #### [周恩来的特务人生(图)](../pages/prog1699/a102858705.md?t=07181251) 
@@ -34,4 +34,4 @@
 #### [被蹂躏的肉体与青春 岂止是女知青？(图)](../pages/prog1699/a102806181.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1699-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1699-earlier.md?t=07181302)

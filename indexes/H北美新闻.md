@@ -3,15 +3,15 @@
 #### [【组图】美两大航母战群再返南海 同英航母日本海军联合军演](../pages/soh6/402064.md?t=07181251) 
 #### [【认清中共系列演讲三】司法部长：与中共妥协代价惨重 自由世界要合作抗共](../pages/soh6/402052.md?t=07181251) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=07181302) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [向美国贩卖芬太尼  5中国人和2中国公司被美定为“外国毒枭”](../pages/soh6/402001.md?t=07181251) 
 #### [江峰: 美禁九千万中共党员入境 急寻出路“退党”热搜激增 ](../pages/soh6/401995.md?t=07181251) 
 #### [双双摒弃华为后 美英两国决定携手建设5G网络](../pages/soh6/402007.md?t=07181251) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=07181302) 
 #### [美大军坐镇印太 尼米兹级双航母战斗群半月内重返南中国海 ](../pages/soh6/401968.md?t=07181251) 
 #### [为美国民间松绑 川普减少法规2.5万页 每户年节约3千元](../pages/soh6/401977.md?t=07181251) 
 #### [释放重大信号！留学生上网课 欧洲生可留美 中国生请回](../pages/soh6/401956.md?t=07181251) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=07181302)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=07181302) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=07181302) 
 #### [一招接一招！蓬佩奥确认禁9000万中共党员入境是制裁选项](../pages/soh6/401950.md?t=07181251) 
 #### [美重量级参议员：左翼控制了媒体大学公司 正觊觎美国政治机构](../pages/soh6/401842.md?t=07181251) 
 #### [蓬佩奥评中国与美国相比道德差太大 美国是黑夜中最亮的星](../pages/soh6/401761.md?t=07181251) 
@@ -25,4 +25,4 @@
 #### [蓬佩奥指世卫继续替中共洗白 但全世界都要中共为瞒疫付出代价](../pages/soh6/401617.md?t=07181251) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md?t=07181302)
