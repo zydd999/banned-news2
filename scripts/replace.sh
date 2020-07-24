@@ -7,7 +7,6 @@ mds=$(ls ../pages/*/*.md)
 
 for md in $mds; do
 	echo $md
-	sed -i "s#$org#$new#g" $md
 done
 
 
