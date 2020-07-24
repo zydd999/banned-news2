@@ -8,7 +8,7 @@
 
 #### 新闻点评：[世界的十字路口](http://141.164.63.68/tanghao/) &nbsp;|&nbsp; [新闻看点](http://141.164.63.68/news-insight/) &nbsp;|&nbsp;[中国禁闻](http://141.164.63.68/ntdtv-news/) &nbsp;|&nbsp; [新闻拍案惊奇](http://141.164.63.68/dayu/) &nbsp;|&nbsp; [大陆新闻解读](http://141.164.63.68/ntdtv-comedy/) &nbsp;|&nbsp; [今日点击](http://141.164.63.68/news-click/)  &nbsp;|&nbsp; [新聞第一現場](http://141.164.63.68/primary-scene/) &nbsp;|&nbsp; [洛城新闻双响炮](http://141.164.63.68/la-news/) &nbsp;|&nbsp; [悦览新闻](http://141.164.63.68/dingyue/)
 
-#### 时政评论：[江峰时刻](http://141.164.63.68/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://141.164.63.68/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://141.164.63.68/tianliang/) &nbsp;|&nbsp; [热点互动](http://141.164.63.68/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://141.164.63.68/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://141.164.63.68/teahouse/)  [明居正透視中國](http://141.164.63.68/decoding-china/)  &nbsp;|&nbsp; [公子时评](http://141.164.63.68/gongzi/)  &nbsp;|&nbsp; [薇羽看世間](http://141.164.63.68/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://141.164.63.68/taiwan/)   
+#### 时政评论：[江峰时刻](http://141.164.63.68/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://141.164.63.68/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://141.164.63.68/tianliang/) &nbsp;|&nbsp; [热点互动](http://141.164.63.68/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://141.164.63.68/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://141.164.63.68/teahouse/)  &nbsp;|&nbsp;  [明居正透視中國](http://141.164.63.68/decoding-china/)  &nbsp;|&nbsp; [公子时评](http://141.164.63.68/gongzi/)  &nbsp;|&nbsp; [薇羽看世間](http://141.164.63.68/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://141.164.63.68/taiwan/)   
 
 
 #### 网站代理：[大纪元新闻网](http://141.164.63.68:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://141.164.63.68:8000/gb/)
