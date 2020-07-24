@@ -3,10 +3,17 @@
 org=$1
 new=$2
 
+if [ $# -ne 2 ]; then
+	echo "exiting..."
+	exit 1
+fi
+
+
 mds=$(ls ../pages/*/*.md)
 
 for md in $mds; do
 	echo $md
+	sed -i "s#$org#$new#g" $md
 done
 
 
