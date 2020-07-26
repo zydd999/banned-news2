@@ -22,7 +22,7 @@ tail = "#### [首页](https://github.com/gfw-breaker/banned-news2/blob/master/RE
 #proxy = "\n\n#### [翻墙必看视频（武汉肺炎、香港反送中、法轮功、八九六四...）](https://github.com/gfw-breaker/banned-news2/blob/master/pages/link3.md)\n\n"
 
 proxy = "\n\n"
-proxy += "#### [ 🎬  《红墙的记忆》- 4.25中南海万人和平上访纪实](http://158.247.193.181:10000/videos/legend/425.html)\n\n"
+#proxy += "#### [ 🎬  《红墙的记忆》- 4.25中南海万人和平上访纪实](http://158.247.193.181:10000/videos/legend/425.html)\n\n"
 #proxy += "#### [ 🎬  《永恒的五十分钟》（长春电视插播事件改编） ](http://158.247.193.181:10000/videos/news/ComingForYou-2.html)\n\n"
 proxy += "#### 💥 [《伪火》 - 天安门自焚真相 ](http://158.247.193.181:10000/videos/blog/weihuo.html)&nbsp; |&nbsp; [“1400例”谎言揭秘  ](http://158.247.193.181:10000/videos/blog/jiexi1400.html)\n\n"
 proxy += "#### [ 🎬  翻墙必看视频（八九六四、法轮功、709大抓捕、香港反送中 ...）](https://github.com/gfw-breaker/banned-news2/blob/master/pages/link4.md)\n\n"
@@ -45,4 +45,20 @@ def write_page(channel, f_name, f_path, title, link, content):
 	fh.write(body)
 	fh.close()
 
+
+def get_links():
+	result = ""
+	site_base_url = "http://158.247.193.181:10000/videos/news/"
+	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
+	lines = open(idx_file, "r").read().splitlines()
+	for line in lines[1:4]:
+		cols = line.split(',')
+		url_path = site_base_url + cols[0] + '.html'
+		title = cols[1]
+		md_link = "#### [ ������ %s](%s)\n\n" % (title, url_path)
+		result = result + md_link
+	return result
+
+
+proxy += get_links()
 
