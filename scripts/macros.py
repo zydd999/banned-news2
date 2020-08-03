@@ -22,14 +22,14 @@ tail = "#### [首页](https://github.com/gfw-breaker/banned-news2/blob/master/RE
 #proxy = "\n\n#### [翻墙必看视频（武汉肺炎、香港反送中、法轮功、八九六四...）](https://github.com/gfw-breaker/banned-news2/blob/master/pages/link3.md)\n\n"
 
 proxy = "\n\n"
-#proxy += "#### [ 🎬  《红墙的记忆》- 4.25中南海万人和平上访纪实](http://158.247.207.5:10000/videos/legend/425.html)\n\n"
-#proxy += "#### [ 🎬  《永恒的五十分钟》（长春电视插播事件改编） ](http://158.247.207.5:10000/videos/news/ComingForYou-2.html)\n\n"
-proxy += "#### 💥 [《伪火》 - 天安门自焚真相 ](http://158.247.207.5:10000/videos/blog/weihuo.html)&nbsp; |&nbsp; [“1400例”谎言揭秘  ](http://158.247.207.5:10000/videos/blog/jiexi1400.html)\n\n"
+#proxy += "#### [ 🎬  《红墙的记忆》- 4.25中南海万人和平上访纪实](http://158.247.206.248:10000/videos/legend/425.html)\n\n"
+#proxy += "#### [ 🎬  《永恒的五十分钟》（长春电视插播事件改编） ](http://158.247.206.248:10000/videos/news/ComingForYou-2.html)\n\n"
+proxy += "#### 💥 [《伪火》 - 天安门自焚真相 ](http://158.247.206.248:10000/videos/blog/weihuo.html)&nbsp; |&nbsp; [“1400例”谎言揭秘  ](http://158.247.206.248:10000/videos/blog/jiexi1400.html)\n\n"
 proxy += "#### [ 🎬  翻墙必看视频（八九六四、法轮功、709大抓捕、香港反送中 ...）](https://github.com/gfw-breaker/banned-news2/blob/master/pages/link4.md)\n\n"
-proxy += "#### 网站代理：[大纪元新闻网](http://158.247.194.169:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://158.247.194.169:8808/gb/) &nbsp;|&nbsp; [YouTube热门频道](http://158.247.207.5/youtube.html)\n\n"
-#proxy += "#### [ 💥 李锐评习近平：没想到文化程度这么低（李锐是毛泽东秘书、习仲勋挚友、前中组部副部长）](http://158.247.207.5:10000/videos/res/Communist/lirui-xi.html)\n\n"
-#proxy += "#### [ 💥 江泽民失态怒斥并威胁香港记者（ “图样图森破”，“谈笑风生” ）](http://158.247.207.5:10000/videos/res/realjzm/naive.html)\n\n"
-proxy += "#### 💥 [九评共产党](http://158.247.207.5:10000/videos/res/jiuping/)&nbsp; |&nbsp; [漫谈党文化](http://158.247.207.5:10000/videos/res/mtdwh/)&nbsp; |&nbsp; [共产主义的终极目的](http://158.247.207.5:10000/videos/res/zjmd/)&nbsp; |&nbsp; [魔鬼在統治著我們的世界](http://158.247.207.5:10000/videos/res/TheSpecter/)  \n\n"
+proxy += "#### 网站代理：[大纪元新闻网](http://158.247.194.169:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://158.247.194.169:8808/gb/) &nbsp;|&nbsp; [YouTube热门频道](http://158.247.206.248/youtube.html)\n\n"
+#proxy += "#### [ 💥 李锐评习近平：没想到文化程度这么低（李锐是毛泽东秘书、习仲勋挚友、前中组部副部长）](http://158.247.206.248:10000/videos/res/Communist/lirui-xi.html)\n\n"
+#proxy += "#### [ 💥 江泽民失态怒斥并威胁香港记者（ “图样图森破”，“谈笑风生” ）](http://158.247.206.248:10000/videos/res/realjzm/naive.html)\n\n"
+proxy += "#### 💥 [九评共产党](http://158.247.206.248:10000/videos/res/jiuping/)&nbsp; |&nbsp; [漫谈党文化](http://158.247.206.248:10000/videos/res/mtdwh/)&nbsp; |&nbsp; [共产主义的终极目的](http://158.247.206.248:10000/videos/res/zjmd/)&nbsp; |&nbsp; [魔鬼在統治著我們的世界](http://158.247.206.248:10000/videos/res/TheSpecter/)  \n\n"
 
 def write_page(channel, f_name, f_path, title, link, content):
 	new_link = git_base_url + '/' + channel + '/' + f_name
@@ -48,7 +48,7 @@ def write_page(channel, f_name, f_path, title, link, content):
 
 def get_links():
 	result = ""
-	site_base_url = "http://158.247.207.5:10000/videos/news/"
+	site_base_url = "http://158.247.206.248:10000/videos/news/"
 	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
 	lines = open(idx_file, "r").read().splitlines()
 	for line in lines[1:4][::-1]:
