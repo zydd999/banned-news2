@@ -480,5 +480,3 @@
 #### [评论 | 陈光诚： 外交对等姗姗来迟莫停步](../pages/pinglun/chenguangcheng-03062020122929.md)
 #### [评论 | 陈光诚：“抗疫”处处文革再现     “维稳”才是当局盘算](../pages/pinglun/chenguangcheng-02242020105337.md)
 #### [评论 | 陈光诚： 封城塞国 是福是祸？](../pages/pinglun/chenguangcheng-01292020103918.md)
-#### [评论 | 陈光诚：不查都是天灾，一查尽是人祸](../pages/pinglun/cgc-12162019105226.md)
-#### [评论 | 陈光诚：正因为没有，才需要进口——世界律师大会](../pages/pinglun/cgc-12102019120109.md)
