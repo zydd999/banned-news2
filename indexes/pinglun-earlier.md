@@ -480,5 +480,3 @@
 #### [骆惠宁：新官上任火烧谁？ | 评论 | 程晓农  ](../pages/pinglun/chengxiaonong-01282020132628.md)
 #### [评论 | 程晓农：2020春“劫”瘟难](../pages/pinglun/chengxiaonong-01272020121212.md)
 #### [ 评论 | 陈光诚：支持香港民权运动，彻底铲除共产暴政](../pages/pinglun/chenguangcheng-08202019102350.md)
-#### [评论 | 陈光诚： 外交对等姗姗来迟莫停步](../pages/pinglun/chenguangcheng-03062020122929.md)
-#### [评论 | 陈光诚：“抗疫”处处文革再现     “维稳”才是当局盘算](../pages/pinglun/chenguangcheng-02242020105337.md)
