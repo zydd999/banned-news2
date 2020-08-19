@@ -480,4 +480,3 @@
 #### [评论 | 陈破空： 林郑月娥的处境   折射香港的处境](../pages/pinglun/chenpokong-09062019121032.md)
 #### [评论 | 陈破空： 拆解北京对港宣传战，破解王沪宁的关键词](../pages/pinglun/chenpokong-08212019124215.md)
 #### [骆惠宁：新官上任火烧谁？ | 评论 | 程晓农  ](../pages/pinglun/chengxiaonong-01282020132628.md)
-#### [评论 | 程晓农：2020春“劫”瘟难](../pages/pinglun/chengxiaonong-01272020121212.md)
