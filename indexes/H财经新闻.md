@@ -1,8 +1,28 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [财经新闻](H财经新闻.md) 
-
+#### [华为高管：受美禁令影响 去年曾遭微软断供数月](../pages/soh7/413320.md?t=08201451) 
+#### [库德洛：川普想阻止中共从Tiktok收购案获益](../pages/soh7/413314.md?t=08201451) 
+#### [库德洛：美经济强劲复苏 1、2周内发放新失业救助金](../pages/soh7/413278.md?t=08201451) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [中国稀土公司因四川洪水损失两年净利 更多资源型企业受灾](../pages/soh7/413167.md?t=08201451) 
+#### [为美中脱钩作准备？苹果手机供应商可成科技出售大陆工厂 ](../pages/soh7/413179.md?t=08201451) 
+#### [失业压力加大 收入减少 中国消费前景暗淡](../pages/soh7/413185.md?t=08201451) 
 #### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [中国消费金融公司风险上升 竞争激烈步入“红海市场”](../pages/soh7/413173.md?t=08201451) 
+#### [中国股市全线下跌 创业板大跌逾3%](../pages/soh7/413182.md?t=08201451) 
+#### [国内市场也难保！日媒：华为中兴放缓在中国5G部署](../pages/soh7/412975.md?t=08201451) 
 #### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [中企退市风险增加 美国务院建议大学放弃中概股](../pages/soh7/412936.md?t=08201451) 
+#### [川普：甲骨文有能力接管TikTok美国业务 ](../pages/soh7/412942.md?t=08201451) 
+#### [川普：我推迟了中美贸易谈判 因为不想和北京对话](../pages/soh7/412876.md?t=08201451) 
+#### [美国新制裁对华为影响：手机业务或瓦解 通讯领域将“死透”](../pages/soh7/412822.md?t=08201451) 
+#### [跨国公司减少对中国的依赖 中国出口占全球份额下滑](../pages/soh7/412831.md?t=08201451) 
+#### [北京再让步 中美每周通行航线增至八个](../pages/soh7/412864.md?t=08201451) 
+#### [中共投资80亿美元的芯片厂 19纳米制程仍落后于国外](../pages/soh7/412828.md?t=08201451) 
+#### [严控资金外流 中共缉查线上赌博 澳门赌场VIP业务受创](../pages/soh7/412834.md?t=08201451) 
+#### [跨国公司迁出 北京写字楼空置率上升 租金降低一半](../pages/soh7/412840.md?t=08201451) 
+#### [美国地产、零售业强势 美股标普创新记录 疫情损失全补上了](../pages/soh7/412858.md?t=08201451) 
+#### [美国扩大打击华为供应链 川普：中美脱钩中共就垮台！](../pages/soh7/412672.md?t=08201451) 
+
+----
+#### [ >>> 更早内容 <<< ](../indexes/soh7-earlier.md)
