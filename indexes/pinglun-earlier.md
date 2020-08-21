@@ -480,4 +480,3 @@
 #### [评论 | 陈破空：《反渗透法》如一面照妖镜  照出台湾人间百态](../pages/pinglun/chenpokong-12302019114804.md)
 #### [评论 | 陈光诚：改革无望革命当兴](../pages/pinglun/chenpokong-12232019100413.md)
 #### [评论 | 陈破空： 香港事态如何收场？答案在中南海](../pages/pinglun/chenpokong-10282019122441.md)
-#### [评论 | 陈破空： 林郑月娥的处境   折射香港的处境](../pages/pinglun/chenpokong-09062019121032.md)
