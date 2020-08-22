@@ -11,7 +11,7 @@
 #### 时政评论：[江峰时刻](http://64.227.88.102/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://64.227.88.102/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://64.227.88.102/tianliang/) &nbsp;|&nbsp; [热点互动](http://64.227.88.102/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://64.227.88.102/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://64.227.88.102/teahouse/)  &nbsp;|&nbsp;  [明居正透視中國](http://64.227.88.102/decoding-china/)  &nbsp;|&nbsp; [公子时评](http://64.227.88.102/gongzi/)  &nbsp;|&nbsp; [薇羽看世間](http://64.227.88.102/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://64.227.88.102/taiwan/)   
 
 
-#### 网站代理：[大纪元新闻网](http://64.227.88.102:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://64.227.88.102:8000/gb/)
+#### 网站代理：[大纪元新闻网](http://64.227.88.102:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://64.227.88.102:8000/gb/) &nbsp;|&nbsp; [网门](http://64.227.88.102:11000/)
 
 #### 财经评论：[秦鹏政经观察](http://64.227.88.102/qinpeng/) &nbsp;|&nbsp; [子弘闲谈](http://64.227.88.102/zihong/) &nbsp;|&nbsp; [财经冷眼](http://64.227.88.102/lengyan/) 
 
