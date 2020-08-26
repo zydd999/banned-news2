@@ -1,25 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [耿爽离开外交部“首秀” 被嘲“屁股没坐热就想当联合国战狼”](../pages/soh5/415231.md?t=08261851) 
-#### [澳学者：中共给人类带来巨大威胁 在做最后挣扎](../pages/soh5/415234.md?t=08261851) 
-#### [中国500富豪买“黄金护照”悄悄移民 名单曝光](../pages/soh5/415216.md?t=08261851) 
+
+### 已转移至新页面 [中国新闻](H中国新闻.md?t=08261902) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [新疆严厉“封城”引发民情激愤](../pages/soh5/415219.md?t=08261851) 
-#### [更大风暴将至？中共中纪委轰政法委中宣部](../pages/soh5/415153.md?t=08261851) 
-#### [中共封杀蒙古语 在六省禁民族语言授课 ](../pages/soh5/415123.md?t=08261851) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [中共“清零行动”多省发生 法轮功学员及家属遭受伤害](../pages/soh5/415063.md?t=08261851) 
-#### [“西气东输” 新疆疫情封锁下网友们的呐喊与无奈](../pages/soh5/414934.md?t=08261851) 
-#### [两月内7名中国人南非遇害 侨领当街遭枪杀](../pages/soh5/414949.md?t=08261851) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [李克强重庆掰苞米 叹“里面都烂了”话中有话？](../pages/soh5/414940.md?t=08261851) 
-#### [蓬佩奥又火了！遭中共3万字痛批 网友：这是最高褒奖](../pages/soh5/414922.md?t=08261851) 
-#### [川普提美中经济脱钩 中共慌了 战狼赵立坚喊话要“合作”](../pages/soh5/414886.md?t=08261851) 
-#### [中共有野心统治世界？人民日报发文被嘲笑](../pages/soh5/414880.md?t=08261851) 
-#### [中共官场又一虎 北京政协副主席李伟被调查](../pages/soh5/414877.md?t=08261851) 
-#### [内斗激烈牵出曾庆红？中粮骆家駹江西帮背景曝光](../pages/soh5/414862.md?t=08261851) 
-#### [美媒：蔡霞事件具震撼效应 中共急划红线无阻变革](../pages/soh5/414865.md?t=08261851) 
-#### [北大博士被街道办录取 高材生成维稳人员 引爆争议](../pages/soh5/414844.md?t=08261851) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
