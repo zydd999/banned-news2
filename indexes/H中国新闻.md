@@ -1,11 +1,27 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=08271902) 
-
+#### [外宾来访中南海关门不接待 王岐山继续“隐身”](../pages/soh5/415651.md?t=08271951) 
+#### [中共党媒批苹果日报是危险“政治组织”吁抵制 恐适得其反](../pages/soh5/415663.md?t=08271951) 
+#### [网爆山东13名男生强奸一初二女生 爆料人被喝茶](../pages/soh5/415648.md?t=08271951) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [安徽粮站站长携110万公款潜逃7年 被捕时正割腕自杀](../pages/soh5/415612.md?t=08271951) 
+#### [微信被封申诉未果 深圳男子在腾讯跳楼身亡](../pages/soh5/415624.md?t=08271951) 
+#### [福建退休官员组织百多名女子卖淫  月入嫖资210万](../pages/soh5/415606.md?t=08271951) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [前鸡西副市长出逃海外 两下属旋即被捕](../pages/soh5/415597.md?t=08271951) 
+#### [全面夺权?习给国务院“刀把子”授旗支开李克强](../pages/soh5/415594.md?t=08271951) 
+#### [中美关系紧张 北京朝南海发射2枚导弹](../pages/soh5/415588.md?t=08271951) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [上海网络作家凌霜出狱后中风  遭逼迁、停电话](../pages/soh5/415564.md?t=08271951) 
+#### [深度剖析！中共宣传机器给民众洗脑的阴招大起底](../pages/soh5/415540.md?t=08271951) 
+#### [怪招频出 天津餐厅推女版盒饭 减量不减价](../pages/soh5/415516.md?t=08271951) 
+#### [学毛掌权到死？英媒爆习近平欲恢复党主席头衔](../pages/soh5/415504.md?t=08271951) 
+#### [外媒：惧“白俄罗斯效应” 中共急做两大动作](../pages/soh5/415492.md?t=08271951) 
+#### [王岐山隐身近三月 陆媒突翻炒其国民党军官儿子家世](../pages/soh5/415501.md?t=08271951) 
+#### [小欧母女书法班里获得书法之外的收益](../pages/soh5/415486.md?t=08271951) 
+#### [风向大变！王毅访欧洲遇麻烦 人权议题成绕不过的坎](../pages/soh5/415327.md?t=08271951) 
+#### [胡锡进“急转弯”声称中国人不恨也不反美 网友嘲讽：战狼秒变哈巴狗](../pages/soh5/415291.md?t=08271951) 
+#### [习近平9人“国师团”曝光 罕由“三代国师”王沪宁统领](../pages/soh5/415309.md?t=08271951) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
