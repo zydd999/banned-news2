@@ -1,5 +1,5 @@
-#### [专栏 | 中国透视：精神纽带：香港抗议运动与1989天安门——从《香港抗争者致内地同胞书》说起](../pages/zhongguotoushi/panel-09092019111316.md)
 #### [专栏 | 中国透视：中共内政对其外交地位的影响](../pages/zhongguotoushi/panel-08302019100904.md)
+#### [专栏 | 中国透视：许志永、许章润、蔡霞、任志强、李克强现象：逐级离心的政治讯号](../pages/zhongguotoushi/panel-08282020125143.md)
 #### [专栏 | 中国透视： 纪念巫宁坤先生  ](../pages/zhongguotoushi/panel-08212019171029.md)
 #### [变局的内外两焦点：北戴河与白俄罗斯](../pages/zhongguotoushi/panel-08192020163323.md)
 #### [专栏 | 中国透视：美中金融战](../pages/zhongguotoushi/panel-08142019130845.md)
