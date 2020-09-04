@@ -1,28 +1,11 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [美国8月新增就业140万个 失业率大幅下降约2% ](../pages/soh7/418345.md?t=09050702) 
-#### [美股暴跌 全球10大科技富豪一夜蒸发440亿美元](../pages/soh7/418210.md?t=09050702) 
-#### [中国玉米价格飙高 将现3000万吨缺口](../pages/soh7/418159.md?t=09050702) 
+
+### 已转移至新页面 [财经新闻](H财经新闻.md?t=09050751) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
-#### [中巴关系不再铁？巴基斯坦与台湾代表会面谈贸易](../pages/soh7/418066.md?t=09050702) 
-#### [中共要以造原子弹的优先度造芯片？ 中科院：比“两弹一星”更难](../pages/soh7/418015.md?t=09050702) 
-#### [涉嫌财务造假 跟谁学遭美国监管机构调查](../pages/soh7/418024.md?t=09050702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [脱钩影响有多大？彭博：中国经济潜在增长率将滑落到1.6%](../pages/soh7/418045.md?t=09050702) 
-#### [专家：中国庞大基建投资收回成本是问题](../pages/soh7/418042.md?t=09050702) 
-#### [A股三大指数收跌 消费股崩盘 专家：炒高股价风险大](../pages/soh7/418027.md?t=09050702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [美国制裁6家中港实体与2名中国公民 原因违背伊朗禁令](../pages/soh7/418051.md?t=09050702) 
-#### [美国单周失业申请人数再度低于百万](../pages/soh7/418048.md?t=09050702) 
-#### [排除中共！台美日欧将在台湾举办「重组供应链」论坛 ](../pages/soh7/417826.md?t=09050702) 
-#### [传白宫探讨TikTok微信制裁细则 预计9月20日前后公布](../pages/soh7/417823.md?t=09050702) 
-#### [面对中方阻力 TikTok买家提出4方法推进收购案](../pages/soh7/417790.md?t=09050702) 
-#### [习近平深改委开会 内循环成中共国策](../pages/soh7/417631.md?t=09050702) 
-#### [美股大涨！道指重回29000点 标普纳指破纪录 川普称赞](../pages/soh7/417688.md?t=09050702) 
-#### [中国银行业更多坏账滞后显现 6560亿拨备恐不解决问题](../pages/soh7/417652.md?t=09050702) 
-#### [融资收紧信号下 中国房企密集发债筹钱](../pages/soh7/417661.md?t=09050702) 
-#### [瑞穗报告：中共“双循环”政策将避免人民币贬值](../pages/soh7/417667.md?t=09050702) 
-#### [印度再封杀118款中国应用软件 淘宝优酷《绝地求生》皆遭禁](../pages/soh7/417676.md?t=09050702) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh7-earlier.md)
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
