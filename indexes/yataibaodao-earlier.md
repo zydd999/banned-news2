@@ -480,5 +480,3 @@
 #### [蔡英文呼吁世界持续撑香港](../pages/yataibaodao/hx2-08122020085622.md)
 #### [马英九：两岸深化年轻人交流 可减小战争可能](../pages/yataibaodao/hx2-08102020101201.md)
 #### [  日本前首相森喜朗将率团赴台   吊唁李登辉](../pages/yataibaodao/hx2-08072020093407.md)
-#### [台湾多党立委涉收贿   时代力量濒临崩溃](../pages/yataibaodao/hx2-08052020082921.md)
-#### [台湾护照换新装 封面凸显TAIWAN  CHINA字样缩小](../pages/yataibaodao/hx1-09022020084839.md)
