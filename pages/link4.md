@@ -6,16 +6,16 @@
 
 #### 热门喜剧：[揭秘央视运作喜剧《大裤衩》](http://158.247.205.159:10000/videos/res/big-shorts/) &nbsp;|&nbsp;[揭秘红朝乱象喜剧《雷人水浒》](http://158.247.205.159:10000/videos/res/OutlawsOfMarsh/) &nbsp;|&nbsp;[新唐人时事小品](http://158.247.205.159:10000/videos/res/comedy/)
 
-#### 新闻点评：[世界的十字路口](http://158.247.205.159/tanghao/) &nbsp;|&nbsp; [新闻看点](http://158.247.205.159/news-insight/) &nbsp;|&nbsp;[中国禁闻](http://158.247.205.159/ntdtv-news/) &nbsp;|&nbsp; [新闻拍案惊奇](http://158.247.205.159/dayu/) &nbsp;|&nbsp; [大陆新闻解读](http://158.247.205.159/ntdtv-comedy/)
-####   &nbsp;|&nbsp;  [今日点击](http://158.247.205.159/news-click/)  &nbsp;|&nbsp; [新聞第一現場](http://158.247.205.159/primary-scene/) &nbsp;|&nbsp; [洛城新闻双响炮](http://158.247.205.159/la-news/) &nbsp;|&nbsp; [悦览新闻](http://158.247.205.159/dingyue/)
+#### 新闻点评：[世界的十字路口](http://158.247.204.207/tanghao/) &nbsp;|&nbsp; [新闻看点](http://158.247.204.207/news-insight/) &nbsp;|&nbsp;[中国禁闻](http://158.247.204.207/ntdtv-news/) &nbsp;|&nbsp; [新闻拍案惊奇](http://158.247.204.207/dayu/) &nbsp;|&nbsp; [大陆新闻解读](http://158.247.204.207/ntdtv-comedy/)
+####   &nbsp;|&nbsp;  [今日点击](http://158.247.204.207/news-click/)  &nbsp;|&nbsp; [新聞第一現場](http://158.247.204.207/primary-scene/) &nbsp;|&nbsp; [洛城新闻双响炮](http://158.247.204.207/la-news/) &nbsp;|&nbsp; [悦览新闻](http://158.247.204.207/dingyue/)
 
-#### 时政评论：[江峰时刻](http://158.247.205.159/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://158.247.205.159/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://158.247.205.159/tianliang/) &nbsp;|&nbsp; [热点互动](http://158.247.205.159/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://158.247.205.159/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://158.247.205.159/teahouse/)  &nbsp;|&nbsp;  
-####   &nbsp;|&nbsp;  [明居正透視中國](http://158.247.205.159/decoding-china/)  &nbsp;|&nbsp; [陳破空縱論天下](http://158.247.205.159/pokong/)  &nbsp;|&nbsp; [薇羽看世間](http://158.247.205.159/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://158.247.205.159/taiwan/)   
+#### 时政评论：[江峰时刻](http://158.247.204.207/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://158.247.204.207/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://158.247.204.207/tianliang/) &nbsp;|&nbsp; [热点互动](http://158.247.204.207/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://158.247.204.207/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://158.247.204.207/teahouse/)  &nbsp;|&nbsp;  
+####   &nbsp;|&nbsp;  [明居正透視中國](http://158.247.204.207/decoding-china/)  &nbsp;|&nbsp; [陳破空縱論天下](http://158.247.204.207/pokong/)  &nbsp;|&nbsp; [薇羽看世間](http://158.247.204.207/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://158.247.204.207/taiwan/)   
 
 
 #### 网站代理：[大纪元新闻网](http://158.247.205.159:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://158.247.205.159:8808/gb/) &nbsp;|&nbsp; [网门](http://158.247.205.159:11000/) &nbsp;|&nbsp; [自由亚洲电台](http://158.247.205.159:9800/mandarin/) &nbsp;|&nbsp; [追查国际](http://158.247.205.159:10010/)
 
-#### 财经评论：[秦鹏政经观察](http://158.247.205.159/qinpeng/) &nbsp;|&nbsp; [子弘闲谈](http://158.247.205.159/zihong/) &nbsp;|&nbsp; [财经冷眼](http://158.247.205.159/lengyan/) 
+#### 财经评论：[秦鹏政经观察](http://158.247.204.207/qinpeng/) &nbsp;|&nbsp; [子弘闲谈](http://158.247.204.207/zihong/) &nbsp;|&nbsp; [财经冷眼](http://158.247.204.207/lengyan/) 
 
 #### 热点专题：[法轮功真相](http://158.247.205.159:10000/videos/truth.html) &nbsp;|&nbsp; [709律师大抓捕](http://158.247.205.159:10000/videos/709/) &nbsp;|&nbsp; [百年共产党](http://158.247.205.159:10000/videos/ccp.html) &nbsp;|&nbsp; [八九六四](http://158.247.205.159:10000/videos/88/)  &nbsp;|&nbsp; [活摘器官黑幕](http://158.247.205.159:10000/videos/res/Organs/)  &nbsp;|&nbsp; [香港反送中](http://158.247.205.159:10000/videos/res/hk/) 
 
