@@ -1,3 +1,4 @@
+#### [专栏 | 不同的声音：既是同舟 狮子山下且共济](../pages/butongdeshengyin/jkdv-08292019144139.md)
 #### [专栏 | 不同的声音：退休仍说良心话  反习不发养老金](../pages/butongdeshengyin/jkdv-08272020115453.md)
 #### [专栏 | 不同的声音：舌尖的立法 浪费的美学](../pages/butongdeshengyin/jkdv-08212020152652.md)
 #### [专栏 | 不同的声音：十年寻衅不成滋事张贾龙 一旦秋后问斩倒算糊涂账](../pages/butongdeshengyin/jkdv-08162019140705.md)
