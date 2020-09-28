@@ -1,11 +1,27 @@
 #### [禁闻热榜](热点新闻.md?t=0)  &nbsp;&nbsp;|&nbsp;&nbsp; [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [财经新闻](H财经新闻.md?t=09290502) 
-
+#### [海外订单不足 中国义乌厂商被迫出口转内销](../pages/soh7/426703.md?t=09290551) 
+#### [日媒：中企赴美上市增加 华尔街投行收益增长8成](../pages/soh7/426709.md?t=09290551) 
+#### [中国经济要出事？外债突破2.1万亿美元 外储不足万亿](../pages/soh7/426694.md?t=09290551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
 #### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [中芯工程师：美国制裁将造成寒蝉效应 中国晶片自给前景悲观](../pages/soh7/426676.md?t=09290551) 
+#### [恒大揭开中国楼市风险序幕  76家房企年内2.5万亿债务到期](../pages/soh7/426670.md?t=09290551) 
+#### [围堵中共！日本要与美德英荷合作 管制先进技术出口](../pages/soh7/426532.md?t=09290551) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [遭列美国黑名单 中芯国际股价大跌近8%](../pages/soh7/426514.md?t=09290551) 
+#### [TikTok禁令遭美国地方法官暂时叫停](../pages/soh7/426499.md?t=09290551) 
+#### [分析：中芯国际面临美国制裁 习近平造芯梦将被掐灭](../pages/soh7/426382.md?t=09290551) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [中芯国际遭美政府制裁！被施加出口禁令](../pages/soh7/426193.md?t=09290551) 
+#### [马云说现在是创业最好时机 大陆网友这样回答](../pages/soh7/426133.md?t=09290551) 
+#### [美司法部阻止法庭禁令  27日裁决TikTok存亡](../pages/soh7/425938.md?t=09290551) 
+#### [山寨日本名牌 中国名创优品申请赴美上市](../pages/soh7/425854.md?t=09290551) 
+#### [里昂证券：辉达收购安谋是中共的噩梦](../pages/soh7/425848.md?t=09290551) 
+#### [恒大危机蔓延 金融机构成「一条线上的蚂蚱」](../pages/soh7/425836.md?t=09290551) 
+#### [美司法部出手 要求加州法官放行「微信禁令」](../pages/soh7/425704.md?t=09290551) 
+#### [恒大辟谣失败？股价大跌10% 债市损3成](../pages/soh7/425662.md?t=09290551) 
+#### [9千中企造芯“大跃进” 企业核心团队惊现“香港四大天王”](../pages/soh7/425524.md?t=09290551) 
+#### [专家：笔电和伺服器组装厂将持续移出中国](../pages/soh7/425470.md?t=09290551) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh7-earlier.md)
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
