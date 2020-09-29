@@ -6,15 +6,15 @@
 
 #### 热门喜剧：[揭秘央视运作喜剧《大裤衩》](http://138.68.52.211:10000/videos/res/big-shorts/) &nbsp;|&nbsp;[揭秘红朝乱象喜剧《雷人水浒》](http://138.68.52.211:10000/videos/res/OutlawsOfMarsh/) &nbsp;|&nbsp;[新唐人时事小品](http://138.68.52.211:10000/videos/res/comedy/)
 
-#### 新闻点评：[世界的十字路口](http://158.247.209.22/tanghao/) &nbsp;|&nbsp; [新闻看点](http://158.247.209.22/news-insight/) &nbsp;|&nbsp;[中国禁闻](http://158.247.209.22/ntdtv-news/) &nbsp;|&nbsp; [新闻拍案惊奇](http://158.247.209.22/dayu/) &nbsp;|&nbsp; [大陆新闻解读](http://158.247.209.22/ntdtv-comedy/)
-####   &nbsp;|&nbsp;  [今日点击](http://158.247.209.22/news-click/)  &nbsp;|&nbsp; [新聞第一現場](http://158.247.209.22/primary-scene/) &nbsp;|&nbsp; [洛城新闻双响炮](http://158.247.209.22/la-news/) &nbsp;|&nbsp; [悦览新闻](http://158.247.209.22/dingyue/)
+#### 新闻点评：[世界的十字路口](http://138.197.232.119/tanghao/) &nbsp;|&nbsp; [新闻看点](http://138.197.232.119/news-insight/) &nbsp;|&nbsp;[中国禁闻](http://138.197.232.119/ntdtv-news/) &nbsp;|&nbsp; [新闻拍案惊奇](http://138.197.232.119/dayu/) &nbsp;|&nbsp; [大陆新闻解读](http://138.197.232.119/ntdtv-comedy/)
+####   &nbsp;|&nbsp;  [今日点击](http://138.197.232.119/news-click/)  &nbsp;|&nbsp; [新聞第一現場](http://138.197.232.119/primary-scene/) &nbsp;|&nbsp; [洛城新闻双响炮](http://138.197.232.119/la-news/) &nbsp;|&nbsp; [悦览新闻](http://138.197.232.119/dingyue/)
 
-#### 时政评论：[江峰时刻](http://158.247.209.22/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://158.247.209.22/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://158.247.209.22/tianliang/) &nbsp;|&nbsp; [热点互动](http://158.247.209.22/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://158.247.209.22/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://158.247.209.22/teahouse/)  &nbsp;|&nbsp;  
-####   &nbsp;|&nbsp;  [明居正透視中國](http://158.247.209.22/decoding-china/)  &nbsp;|&nbsp; [陳破空縱論天下](http://158.247.209.22/pokong/)  &nbsp;|&nbsp; [薇羽看世間](http://158.247.209.22/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://158.247.209.22/taiwan/)   
+#### 时政评论：[江峰时刻](http://138.197.232.119/today-in-history/) &nbsp;|&nbsp; [文昭谈古论今](http://138.197.232.119/wenzhao/) &nbsp;|&nbsp; [天亮时分](http://138.197.232.119/tianliang/) &nbsp;|&nbsp; [热点互动](http://138.197.232.119/ntdtv-rdhd/) &nbsp;|&nbsp; [萧茗看世界](http://138.197.232.119/simonegao/) &nbsp;|&nbsp; [北京老茶馆](http://138.197.232.119/teahouse/)  &nbsp;|&nbsp;  
+####   &nbsp;|&nbsp;  [明居正透視中國](http://138.197.232.119/decoding-china/)  &nbsp;|&nbsp; [陳破空縱論天下](http://138.197.232.119/pokong/)  &nbsp;|&nbsp; [薇羽看世間](http://138.197.232.119/weiyu/)  &nbsp;|&nbsp; [台湾政經最前線](http://138.197.232.119/taiwan/)   
 
 #### 网站代理：[大纪元新闻网](http://138.197.203.246:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://138.197.203.246:8808/gb/) &nbsp;|&nbsp; [网门](http://138.197.203.246:11000/) &nbsp;|&nbsp; [自由亚洲电台](http://138.197.203.246:9800/mandarin/) &nbsp;|&nbsp; [追查国际](http://138.197.203.246:10010/)
 
-#### 财经评论：[秦鹏政经观察](http://158.247.209.22/qinpeng/) &nbsp;|&nbsp; [杰森視角 ](http://158.247.209.22/jason/)
+#### 财经评论：[秦鹏政经观察](http://138.197.232.119/qinpeng/) &nbsp;|&nbsp; [杰森視角 ](http://138.197.232.119/jason/)
 
 #### 热点专题：[法轮功真相](http://138.68.52.211:10000/videos/truth.html) &nbsp;|&nbsp; [709律师大抓捕](http://138.68.52.211:10000/videos/709/) &nbsp;|&nbsp; [百年共产党](http://138.68.52.211:10000/videos/ccp.html) &nbsp;|&nbsp; [八九六四](http://138.68.52.211:10000/videos/88/)  &nbsp;|&nbsp; [活摘器官黑幕](http://138.68.52.211:10000/videos/res/Organs/)  &nbsp;|&nbsp; [香港反送中](http://138.68.52.211:10000/videos/res/hk/) 
 
