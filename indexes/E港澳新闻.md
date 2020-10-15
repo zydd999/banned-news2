@@ -3,15 +3,15 @@
 #### [香港政府拟十年增五天劳工假 劳顾会未有共识](../pages/nsc415/n12476851.md?t=10151551) 
 #### [九龙城区议会拒邓炳强到访](../pages/nsc415/n12476812.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [惩教署扣起612基金年报 港议员不满阻挠通讯](../pages/nsc415/n12476763.md?t=10151551) 
 #### [香港政府强逼公务员宣誓效忠](../pages/nsc415/n12476709.md?t=10151551) 
 #### [【役情最前线】习近平视察军队 蔡英文探雷达站](../pages/nsc415/n12476013.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [习深圳讲话党八股 香港作用排倒数第二](../pages/nsc415/n12476420.md?t=10151551) 
 #### [【珍言真语】郑敬基：良知最要紧 盼港星齐发声](../pages/nsc415/n12475459.md?t=10151551) 
 #### [“死神”笼罩中共 美军臂章惊现中国地图](../pages/nsc415/n12475694.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [美禁共产党员移民 香港设退党热线电话](../pages/nsc415/n12474127.md?t=10151551) 
 #### [对抗美国制裁 大陆广为造“芯” 多地烂尾](../pages/nsc415/n12474024.md?t=10151551) 
 #### [罗纳尔多“中共病毒”确诊 无缘葡瑞之战](../pages/nsc415/n12473998.md?t=10151551) 
@@ -65,4 +65,4 @@
 #### [台立院全票通过 国民党提“台美复交”两决议案](../pages/nsc415/n12458427.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md?t=10151602)

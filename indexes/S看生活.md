@@ -3,15 +3,15 @@
 #### [除了保鲜 冰箱还有这些妙用(图)](../pages/p8/949149.md?t=10151551) 
 #### [以“幽默”化解危机的肯德基(图)](../pages/p8/945899.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [5句有趣但发人省思的话(图)](../pages/p8/949158.md?t=10151551) 
 #### [在中国拯救四千孤儿的美国人(图)](../pages/p8/948584.md?t=10151551) 
 #### [孩子“欢必霸”父母如何疏通情绪？(组图)](../pages/p8/949127.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [乞丐与觉者(图)](../pages/p8/949261.md?t=10151551) 
 #### [除了保鲜 冰箱还有这些妙用(图)](../pages/p8/949149.md?t=10151551) 
 #### [全新勒索病毒出现 小心手机被瘫痪(图)](../pages/p8/949250.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [以“幽默”化解危机的肯德基(图)](../pages/p8/945899.md?t=10151551) 
 #### [5句有趣但发人省思的话(图)](../pages/p8/949158.md?t=10151551) 
 #### [在中国拯救四千孤儿的美国人(图)](../pages/p8/948584.md?t=10151551) 
@@ -31,4 +31,4 @@
 #### [《菜根谭》伪善之人的4个特征(组图)](../pages/p8/948756.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p8-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p8-earlier.md?t=10151602)

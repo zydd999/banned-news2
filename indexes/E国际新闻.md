@@ -3,15 +3,15 @@
 #### [美军隐形无人机5GAT将试飞 展现多元研发能力](../pages/nsc418/n12477215.md?t=10151551) 
 #### [【新闻第一现场】拜登儿爆吸毒艳照 父子陷腐败疑云](../pages/nsc418/n12476673.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [川普：左派推行封锁 正摧毁数百万人生命](../pages/nsc418/n12476783.md?t=10151551) 
 #### [专家：美国大选后对华贸易政策将更趋一致](../pages/nsc418/n12476728.md?t=10151551) 
 #### [【独家】驻华使领馆被中共视为敌对势力](../pages/nsc418/n12471193.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [【薇羽看世间】美国大选背后的中共黑手](../pages/nsc418/n12475846.md?t=10151551) 
 #### [川普政府致信各州教育局长：孔院危害民主](../pages/nsc418/n12476288.md?t=10151551) 
 #### [【最新疫情10.14】川普儿子巴伦曾测试阳性](../pages/nsc418/n12473675.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [12港人欲逃往台湾被抓 蓬佩奥：他们没犯罪](../pages/nsc418/n12476056.md?t=10151551) 
 #### [中共欲在韩建病毒研究所？韩专家：四大危害](../pages/nsc418/n12475323.md?t=10151551) 
 #### [民调：以色列人更喜欢川普连任 而非拜登](../pages/nsc418/n12475959.md?t=10151551) 
@@ -65,4 +65,4 @@
 #### [【最新疫情10.11】世卫吁全球勿再封锁控疫](../pages/nsc418/n12452533.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md?t=10151602)

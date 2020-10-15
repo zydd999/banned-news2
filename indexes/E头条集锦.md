@@ -3,15 +3,15 @@
 #### [蓬佩奥：中共侵犯14亿中国人的基本人权](../pages/nf4514/n12476281.md?t=10151551) 
 #### [川普：左派推行封锁 正摧毁数百万人生命](../pages/nf4514/n12476783.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [专家：美国大选后对华贸易政策将更趋一致](../pages/nf4514/n12476728.md?t=10151551) 
 #### [按名单抓人 哈尔滨近30法轮功学员遭绑架](../pages/nf4514/n12475870.md?t=10151551) 
 #### [【独家】驻华使领馆被中共视为敌对势力](../pages/nf4514/n12471193.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [美正式警告银行 勿跟林郑等中港官员有业务](../pages/nf4514/n12476157.md?t=10151551) 
 #### [【最新疫情10.14】川普儿子巴伦曾测试阳性](../pages/nf4514/n12473675.md?t=10151551) 
 #### [【珍言真语】郑敬基：良知最要紧 盼港星齐发声](../pages/nf4514/n12475459.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [【重播】蓬佩奥新闻会：中共持续威胁各国](../pages/nf4514/n12475327.md?t=10151551) 
 #### [“死神”笼罩中共 美军臂章惊现中国地图](../pages/nf4514/n12475694.md?t=10151551) 
 #### [电邮泄漏：拜登子牵线 乌克兰高管结识拜登](../pages/nf4514/n12475395.md?t=10151551) 
@@ -65,4 +65,4 @@
 #### [专访袁弓夷：国安法打击美心“驸马爷”](../pages/nf4514/n12468686.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=10151602)

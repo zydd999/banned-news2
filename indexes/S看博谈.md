@@ -3,15 +3,15 @@
 #### [罗织间谍的文攻伎俩(图)](../pages/p4/949328.md?t=10151551) 
 #### [绝不能再给中共任何喘息之机(图)](../pages/p4/949320.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [民调：多数美国人愿为防卫台湾承担风险(图)](../pages/p4/949315.md?t=10151551) 
 #### [青岛不眠夜 大疫前的致命错误(图)](../pages/p4/949233.md?t=10151551) 
 #### [国民党提案主张与美恢复邦交 撼动美中台关系？(图)](../pages/p4/949213.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [台湾不属红朝 谁将得到台湾？(图)](../pages/p4/949340.md?t=10151551) 
 #### [大选临近 56%美国民众感觉良好(图)](../pages/p4/949335.md?t=10151551) 
 #### [中国的数字化货币逐渐浮出水面(图)](../pages/p4/949332.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [林郑示范中共独裁统治卑劣手段(图)](../pages/p4/949331.md?t=10151551) 
 #### [罗织间谍的文攻伎俩(图)](../pages/p4/949328.md?t=10151551) 
 #### [绝不能再给中共任何喘息之机(图)](../pages/p4/949320.md?t=10151551) 
@@ -30,4 +30,4 @@
 #### [大忽悠 反美斗士的儿子儿媳都在美国(组图)](../pages/p4/949053.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p4-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p4-earlier.md?t=10151602)

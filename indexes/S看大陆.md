@@ -3,15 +3,15 @@
 #### [iPhone12问世速冲热搜榜 民间再踩华为手机(组图)](../pages/p1/949279.md?t=10151551) 
 #### [中共对外捐助疫苗 中国民众却要自己买单(组图)](../pages/p1/949300.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [10月再现惊奇？习近平一阵狂咳意外变焦点(图)](../pages/p1/949286.md?t=10151551) 
 #### [中国维权律师家属会见六国人权官员(图)](../pages/p1/949256.md?t=10151551) 
 #### [北京盯上留学生？武肺疫苗招待 封口曝光(图)](../pages/p1/949259.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [盼援救 云南牧师被警方抓捕 失联逾2个月(图)](../pages/p1/949336.md?t=10151551) 
 #### [iPhone12问世速冲热搜榜 民间再踩华为手机(组图)](../pages/p1/949279.md?t=10151551) 
 #### [中共对外捐助疫苗 中国民众却要自己买单(组图)](../pages/p1/949300.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [10月再现惊奇？习近平一阵狂咳意外变焦点(图)](../pages/p1/949286.md?t=10151551) 
 #### [中国维权律师家属会见六国人权官员(图)](../pages/p1/949256.md?t=10151551) 
 #### [青岛560万核酸检测无人确诊 “震动”外界(图)](../pages/p1/949271.md?t=10151551) 
@@ -29,4 +29,4 @@
 #### [赵立坚证实：澳籍作家杨恒均以间谍罪被公诉(图)](../pages/p1/949117.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md?t=10151602)

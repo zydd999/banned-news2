@@ -3,15 +3,15 @@
 #### [【西岸观察】是谁把拜登儿子电脑送去维修？](../pages/nsc412/n12477080.md?t=10151551) 
 #### [若法拉盛实施公车专用道  商家将申请法院禁制令](../pages/nsc412/n12477189.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [纽约选民可亲自拿“缺席选票”到投票所投票](../pages/nsc412/n12477184.md?t=10151551) 
 #### [市府出台室外就餐取暖设备安装指南](../pages/nsc412/n12477118.md?t=10151551) 
 #### [纽约枪支暴力高涨 联邦介入起诉罪犯](../pages/nsc412/n12477048.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [蓬佩奥：中共侵犯14亿中国人的基本人权](../pages/nsc412/n12476281.md?t=10151551) 
 #### [【新闻第一现场】拜登儿爆吸毒艳照 父子陷腐败疑云](../pages/nsc412/n12476673.md?t=10151551) 
 #### [川普：左派推行封锁 正摧毁数百万人生命](../pages/nsc412/n12476783.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [专家：美国大选后对华贸易政策将更趋一致](../pages/nsc412/n12476728.md?t=10151551) 
 #### [拜登父子丑闻被曝光 川普抨击脸书推特删文](../pages/nsc412/n12476657.md?t=10151551) 
 #### [【名家专栏】掌控教育篡改历史 左派要毁美国](../pages/nsc412/n12474159.md?t=10151551) 
@@ -65,4 +65,4 @@
 #### [【新闻看点】中共突曝台谍案 美拟售台尖端武器](../pages/nsc412/n12473483.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md?t=10151602)

@@ -3,15 +3,15 @@
 #### [残暴金正恩流泪？专家：因害怕一件事发生(图)](../pages/p9/949247.md?t=10151551) 
 #### [这三国加入人权理事会 如让纵火者加入消防队(图)](../pages/p9/949298.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [荷兰发现世界首例二次感染武汉肺炎死亡病例(图)](../pages/p9/949186.md?t=10151551) 
 #### [北京战狼外交作茧自缚 专家：近者不悦，远者不来(图)](../pages/p9/949230.md?t=10151551) 
 #### [日媒惊爆：白宫考虑给中共终极惊喜 川普或访台(图)](../pages/p9/949194.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [中国身为人权理事国却在全球网络自由度排名上多年垫底(图)](../pages/p9/949330.md?t=10151551) 
 #### [残暴金正恩流泪？专家：因害怕一件事发生(图)](../pages/p9/949247.md?t=10151551) 
 #### [这三国加入人权理事会 如让纵火者加入消防队(图)](../pages/p9/949298.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [中国权贵跳船计划泡汤了 “黄金护照”将废(图)](../pages/p9/949253.md?t=10151551) 
 #### [泰国示威者围堵总理府 警方下通牒(组图)](../pages/p9/949282.md?t=10151551) 
 #### [荷兰发现世界首例二次感染武汉肺炎死亡病例(图)](../pages/p9/949186.md?t=10151551) 
@@ -31,4 +31,4 @@
 #### [川普特鲁多讨论中国拘禁两名加拿大公民(图)](../pages/p9/949008.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md?t=10151602)

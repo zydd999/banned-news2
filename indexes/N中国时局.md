@@ -3,15 +3,15 @@
 #### [【拍案惊奇】拜登丑闻影响参选 中共黄金护照没了](../pages/prog1138/a102963612.md?t=10151551) 
 #### [习近平南巡大会罕见延迟 李嘉诚受冷落](../pages/prog1138/a102963530.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [习近平下令备战 传能打仗的将领都对他不满](../pages/prog1138/a102963466.md?t=10151551) 
 #### [秦就石：南巡？他们将看着中共死去](../pages/prog1138/a102963290.md?t=10151551) 
 #### [【天亮时分】习近平南巡走死路 川普会突袭访台？](../pages/prog1138/a102962815.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [王友群：习江终极决战 江泽民将三个硬盘给了川普？](../pages/prog1138/a102962782.md?t=10151551) 
 #### [习近平南巡透露困境 学毛泽东自力更生](../pages/prog1138/a102962748.md?t=10151551) 
 #### [习近平风光南巡 李克强再度“哭穷”](../pages/prog1138/a102962735.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [习近平高调南巡引猜测 疑防五中全会生变](../pages/prog1138/a102962264.md?t=10151551) 
 #### [王友群：中南海内斗激烈 人算不如天算](../pages/prog1138/a102962212.md?t=10151551) 
 #### [学者评习近平南巡：一脚踩油门，一脚踩刹车](../pages/prog1138/a102962022.md?t=10151551) 
@@ -34,4 +34,4 @@
 #### [红二代谈习近平：身旁全是马屁精 夜夜睡不着觉](../pages/prog1138/a102956275.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md?t=10151602)

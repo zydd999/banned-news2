@@ -3,15 +3,15 @@
 #### [川普重申：中共向世界释放病毒 美国将追责](../pages/prog204/a102963613.md?t=10151551) 
 #### [习近平南巡大会罕见延迟 李嘉诚受冷落](../pages/prog204/a102963530.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [美制裁10名中港高官 警告银行别跟他们有往来](../pages/prog204/a102963501.md?t=10151551) 
 #### [习近平下令备战 传能打仗的将领都对他不满](../pages/prog204/a102963466.md?t=10151551) 
 #### [按名单抓人 哈尔滨近30法轮功学员遭绑架](../pages/prog204/a102963477.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [盘点：习近平南巡五大“异象”](../pages/prog204/a102963430.md?t=10151551) 
 #### [【疫情更新30】习近平南巡咳嗽 央视急切画面](../pages/prog204/a102956083.md?t=10151551) 
 #### [【禁闻】央视塑造的抗疫英雄 被揭老底](../pages/prog204/a102963309.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [10月14日维权动态](../pages/prog204/a102963334.md?t=10151551) 
 #### [【禁闻】10月14日退党精选](../pages/prog204/a102963338.md?t=10151551) 
 #### [【禁闻】马列教授筹款治癌 网友：被赵家排除门外](../pages/prog204/a102963307.md?t=10151551) 
@@ -34,4 +34,4 @@
 #### [青岛航班大面积取消 外地纷纷禁止前往](../pages/prog204/a102962801.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md?t=10151602)

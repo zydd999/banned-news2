@@ -3,15 +3,15 @@
 #### [华女购买回国机票 到了机场登不了机(图)](../pages/p3/949285.md?t=10151551) 
 #### [华人超爱眼药水被召回 严重可致艾滋病(图)](../pages/p3/949276.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [日本横滨周围出现“迷之异味” 正逼近首相家(组图)](../pages/p3/949269.md?t=10151551) 
 #### [加拿大父母团聚移民重开申请 有人不服(图)](../pages/p3/949265.md?t=10151551) 
 #### [黄金护照被废除 中国权贵又一移民梦碎(图)](../pages/p3/949218.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [特鲁多对中共强硬表态：强制外交不会成功(图)](../pages/p3/949306.md?t=10151551) 
 #### [美国选民热情空前 为投票排队苦等11小时(图)](../pages/p3/949296.md?t=10151551) 
 #### [华女购买回国机票 到了机场登不了机(图)](../pages/p3/949285.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [华人超爱眼药水被召回 严重可致艾滋病(图)](../pages/p3/949276.md?t=10151551) 
 #### [日本横滨周围出现“迷之异味” 正逼近首相家(组图)](../pages/p3/949269.md?t=10151551) 
 #### [加拿大父母团聚移民重开申请 有人不服(图)](../pages/p3/949265.md?t=10151551) 
@@ -31,4 +31,4 @@
 #### [史上最严 美国工作签证H1B大变革 (图)](../pages/p3/948952.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md?t=10151602)

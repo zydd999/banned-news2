@@ -3,15 +3,15 @@
 #### [脸书推特审查拜登电邮报导 川普吁废社媒免责法规](../pages/prog203/a102963548.md?t=10151551) 
 #### [川普重申：中共向世界释放病毒 美国将追责](../pages/prog203/a102963613.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [电脑硬盘泄拜登父子丑闻 含12分钟不雅视频](../pages/prog203/a102963590.md?t=10151551) 
 #### [美总统大选第2场辩论取消 川普拜登隔空较量](../pages/prog203/a102963556.md?t=10151551) 
 #### [坏天气下也能命中目标 美战机将配装“暴风之锤”](../pages/prog203/a102963529.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [蓬佩奥任命西藏事务官 誓让中共为人权付出代价](../pages/prog203/a102963537.md?t=10151551) 
 #### [美第一夫人：她与川普小儿子检测皆为阴性](../pages/prog203/a102963498.md?t=10151551) 
 #### [约6000英尺高空 华航机组员惊见“空中飞人”](../pages/prog203/a102963456.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [铁证邮件揭拜登撒谎 参院当天启动调查](../pages/prog203/a102963428.md?t=10151551) 
 #### [最新民调：60%的登记选民担心拜登的年龄](../pages/prog203/a102963126.md?t=10151551) 
 #### [前白宫医生：拜登认知能力下降 不适合担任总统](../pages/prog203/a102963121.md?t=10151551) 
@@ -35,4 +35,4 @@
 #### [乔治亚州提前投票首日现场火爆 投票率创纪录](../pages/prog203/a102962406.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=10151602)

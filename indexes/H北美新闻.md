@@ -3,15 +3,15 @@
 #### [拜登儿子电邮曝光 脸书推特忙限流](../pages/soh6/432166.md?t=10151551) 
 #### [最新网络自由报告出炉 中国最不自由 连续6年垫底](../pages/soh6/432121.md?t=10151551) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10151602) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [不具备领导能力？美众议员提案罢免众院议长佩洛西](../pages/soh6/432139.md?t=10151551) 
 #### [川普称赞巴雷特：在参院听证会上表现出色](../pages/soh6/432079.md?t=10151551) 
 #### [大法官核准听证 贺锦丽表现露破绽](../pages/soh6/432103.md?t=10151551) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10151602) 
 #### [谎话连篇 拜登为拉选票编造自己有“亲黑人”经历](../pages/soh6/432082.md?t=10151551) 
 #### [铁证如山！拜登儿子丑闻电邮曝光 参院介入调查](../pages/soh6/432070.md?t=10151551) 
 #### [激进派为夺权 正推动川普胜选后的 “政变”](../pages/soh6/431956.md?t=10151551) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10151602)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10151602) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10151602) 
 #### [逾千万美国人已在大选中投票 超过2016年同期五倍](../pages/soh6/431818.md?t=10151551) 
 #### [罕见！中加建交50周年 特鲁多痛批中共流氓外交](../pages/soh6/431839.md?t=10151551) 
 #### [大法官核准听证第二天  巴雷特坦然面对侮辱性问题](../pages/soh6/431740.md?t=10151551) 
@@ -23,4 +23,4 @@
 #### [川普疾呼：把波特兰骚乱中的“禽兽”关进监狱](../pages/soh6/431644.md?t=10151551) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md?t=10151602)
