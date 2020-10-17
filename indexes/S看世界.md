@@ -3,15 +3,15 @@
 #### [对中国说不 加拿大愿付出什么样的代价？(图)](../pages/p9/949511.md?t=10180702) 
 #### [共产党窝里斗？菲共下令将中企列为攻击目标(图)](../pages/p9/949438.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [切断对中依赖 菅义伟访东南亚让北京不安？(图)](../pages/p9/949352.md?t=10180702) 
 #### [吉尔吉斯斯坦总统主动请辞 不愿人民自相残杀(图)](../pages/p9/949386.md?t=10180702) 
 #### [《看中国》隆重推出荣誉会员专刊第八期(组图)](../pages/p9/949299.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [默克尔：理智与谨慎是最有效抗疫手段(图)](../pages/p9/949593.md?t=10180702) 
 #### [日本首创呼气检测法 1小时即知结果(图)](../pages/p9/949531.md?t=10180702) 
 #### [中国外交威吓罄竹难书 下场让北京更难堪(图)](../pages/p9/949472.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [对中国说不 加拿大愿付出什么样的代价？(图)](../pages/p9/949511.md?t=10180702) 
 #### [违反制裁 韩涉助朝鲜洗产地赚外汇(图)](../pages/p9/949458.md?t=10180702) 
 #### [共产党窝里斗？菲共下令将中企列为攻击目标(图)](../pages/p9/949438.md?t=10180702) 
@@ -31,4 +31,4 @@
 #### [日媒惊爆：白宫考虑给中共终极惊喜 川普或访台(图)](../pages/p9/949194.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p9-earlier.md?t=10180751)

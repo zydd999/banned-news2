@@ -3,15 +3,15 @@
 #### [【拍案惊奇】习近平提前回京 网传五中全会高层变动](../pages/prog1138/a102965186.md?t=10180702) 
 #### [被迫抄李克强作业？北京推出“摆摊”新规](../pages/prog1138/a102965080.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [张慧东：习近平此次高调南巡的背后](../pages/prog1138/a102964079.md?t=10180702) 
 #### [张真瑜：习近平深圳讲话让共产党向深渊更进一步](../pages/prog1138/a102964076.md?t=10180702) 
 #### [王友群：习近平“南巡”可推进“改革开放”？](../pages/prog1138/a102963672.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [【拍案惊奇】拜登丑闻影响参选 林郑被“隔离”](../pages/prog1138/a102963612.md?t=10180702) 
 #### [习近平南巡大会罕见延迟 李嘉诚受冷落](../pages/prog1138/a102963530.md?t=10180702) 
 #### [习近平下令备战 传能打仗的将领都对他不满](../pages/prog1138/a102963466.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [邢天行：习近平南巡为何先打“侨牌”？](../pages/prog1138/a102963295.md?t=10180702) 
 #### [秦就石：南巡？他们将看着中共死去](../pages/prog1138/a102963290.md?t=10180702) 
 #### [【天亮时分】习近平南巡走死路 川普会突袭访台？](../pages/prog1138/a102962815.md?t=10180702) 
@@ -34,4 +34,4 @@
 #### [陈思敏：中国经济“内虚” 北京楼市一叶知秋](../pages/prog1138/a102959736.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog1138-earlier.md?t=10180751)

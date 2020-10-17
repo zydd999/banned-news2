@@ -3,15 +3,15 @@
 #### [【命理】如何化解伤官凶星？](../pages/prog647/a102965268.md?t=10180702) 
 #### [张爱玲与胡兰成的爱情故事](../pages/prog647/a102964432.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【西安事变‧蒋宋夫妇】天降神谕 使命之行](../pages/prog647/a102964381.md?t=10180702) 
 #### [淡泊明志 宁静致远](../pages/prog647/a102963807.md?t=10180702) 
 #### [【南北战争第24集】安贫乐富美利坚 内战后善待败军 vs 造反有理中共国](../pages/prog647/a102963623.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [“仁心如此，真宰相也！”](../pages/prog647/a102963579.md?t=10180702) 
 #### [浮生行吟：读书笔记4──笑看《放妻书》](../pages/prog647/a102962883.md?t=10180702) 
 #### [《后汉书》奇闻：刑具自落 亡灵报恩](../pages/prog647/a102962873.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [《英文名字大全》之五：男子名 J to L](../pages/prog647/a102962180.md?t=10180702) 
 #### [济公袈裟罩山 古井运木](../pages/prog647/a102962113.md?t=10180702) 
 #### [【西安事变‧蒋宋夫妇】心不畏死 神予慧智](../pages/prog647/a102962106.md?t=10180702) 
@@ -34,4 +34,4 @@
 #### [【成吉思汗】宽仁服众 推改革 壮大队伍](../pages/prog647/a102955880.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog647-earlier.md?t=10180751)

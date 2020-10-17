@@ -3,15 +3,15 @@
 #### [【最新疫情10.17】欧洲两国外长染疫](../pages/nsc418/n12482194.md?t=10180702) 
 #### [丑闻再发酵 传拜登是电邮所指的“大人物”](../pages/nsc418/n12483050.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【内幕】拜登家被中共军方背景公司渗透](../pages/nsc418/n12482482.md?t=10180702) 
 #### [破纪录 莎士比亚合集珍本拍出近千万美元](../pages/nsc418/n12482471.md?t=10180702) 
 #### [YouTube删除3000个中共营运的假账号](../pages/nsc418/n12482575.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [加总理强调捍卫人权 谴责中共胁迫式外交](../pages/nsc418/n12482494.md?t=10180702) 
 #### [【瘟疫与中共】疫情飙升 聚焦风车之国荷兰](../pages/nsc418/n12481885.md?t=10180702) 
 #### [NBA火箭队总经理辞职 央视称付出代价引猜测](../pages/nsc418/n12481821.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [欧洲批准波音737 MAX年底复飞 波音股价上涨](../pages/nsc418/n12481479.md?t=10180702) 
 #### [孕期发现恶性肿瘤 英国母亲感叹胎儿救命](../pages/nsc418/n12481105.md?t=10180702) 
 #### [中共大使威胁不得接收港难民 加拿大外长回应](../pages/nsc418/n12481603.md?t=10180702) 
@@ -65,4 +65,4 @@
 #### [反制渗透 美要求智库公布外国政府资金](../pages/nsc418/n12473298.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc418-earlier.md?t=10180751)

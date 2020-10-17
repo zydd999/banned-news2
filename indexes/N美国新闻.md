@@ -3,15 +3,15 @@
 #### [共和党全国委员会：推特给拜登不当政治捐助](../pages/prog203/a102965601.md?t=10180702) 
 #### [【直播】川普在威斯康星州发表演讲（同声翻译）](../pages/prog203/a102965539.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [中共严重渗透纽约华埠 法轮功车队游行展示真相](../pages/prog203/a102965592.md?t=10180702) 
 #### [【新闻周刊】美2020大选“十月惊奇” 拜登父子丑闻缠身](../pages/prog203/a102965554.md?t=10180702) 
 #### [拜登露天演讲视频曝光 巨型提词屏幕吸睛](../pages/prog203/a102965560.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [朱利安尼：拜登子与中共特工共用办公室 危及国安](../pages/prog203/a102965474.md?t=10180702) 
 #### [川普选战又一胜利 密歇根州邮寄选票计票延期失效](../pages/prog203/a102965375.md?t=10180702) 
 #### [丑闻曝光两天后记者终于提问 拜登很生气](../pages/prog203/a102965360.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [川普佛州乔治亚州固票 拜登密西根州集会](../pages/prog203/a102965421.md?t=10180702) 
 #### [朱利安尼：拜登丑闻直接证据将在大选前10天公布](../pages/prog203/a102965367.md?t=10180702) 
 #### [北京上海托福名额5分钟抢光 网民：不跑来不及了](../pages/prog203/a102965285.md?t=10180702) 
@@ -35,4 +35,4 @@
 #### [【重播】川普在佛州大选集会上演讲（同声翻译）](../pages/prog203/a102964872.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog203-earlier.md?t=10180751)

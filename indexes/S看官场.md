@@ -3,15 +3,15 @@
 #### [腐败成灾 中国国家能源局副局长刘宝华落马(图)](../pages/p2/949527.md?t=10180702) 
 #### [总书记扩权 习近平不需要主席制？(图)](../pages/p2/949481.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [留绝笔信的成都大学书记遗体传被寻获(图)](../pages/p2/949454.md?t=10180702) 
 #### [郑中原：习近平南巡急回京为扶接班人(图)](../pages/p2/949561.md?t=10180702) 
 #### [腐败成灾 中国国家能源局副局长刘宝华落马(图)](../pages/p2/949527.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [广东党校“领导十诫”火了 网友批无耻(图)](../pages/p2/949523.md?t=10180702) 
 #### [总书记扩权 习近平不需要主席制？(图)](../pages/p2/949481.md?t=10180702) 
 #### [留绝笔信的成都大学书记遗体传被寻获(图)](../pages/p2/949454.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [拥秦岭别墅 中石油高官曲广学贪腐细节曝光(图)](../pages/p2/949440.md?t=10180702) 
 #### [落马月余 北京政协原副主席李伟被免职(图)](../pages/p2/949424.md?t=10180702) 
 #### [习近平紧急回京 五中全会人事网络突传(图)](../pages/p2/949421.md?t=10180702) 
@@ -22,4 +22,4 @@
 #### [习近平深圳讲话有暗语 涉邓习之争？(图)](../pages/p2/949257.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p2-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p2-earlier.md?t=10180751)

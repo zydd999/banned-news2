@@ -3,15 +3,15 @@
 #### [“打倒中共恶魔”全球征签 超12万人连署](../pages/nf4514/n12482605.md?t=10180702) 
 #### [台港人士被电视认罪 专家：中共是恐怖组织](../pages/nf4514/n12482659.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [【最新疫情10.17】欧洲两国外长染疫](../pages/nf4514/n12482194.md?t=10180702) 
 #### [【成吉思汗】建大蒙古国 封功臣 扩怯薛军](../pages/nf4514/n12467270.md?t=10180702) 
 #### [【内幕】拜登家被中共军方背景公司渗透](../pages/nf4514/n12482482.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [新西兰大选落幕 工党完胜获独立执政机会](../pages/nf4514/n12482883.md?t=10180702) 
 #### [青岛染疫男载客231人 网民:乘客接触者呢？](../pages/nf4514/n12482810.md?t=10180702) 
 #### [前生意伙伴举报亨特 游说拜登白宫见中企官员](../pages/nf4514/n12482193.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [钟原：欧盟发起欧中贸易战的信号](../pages/nf4514/n12481915.md?t=10180702) 
 #### [【思想领袖】史密斯：关乎美国未来的战斗](../pages/nf4514/n12420009.md?t=10180702) 
 #### [美向中国联通出手？FCC致信司法部要调查](../pages/nf4514/n12481803.md?t=10180702) 
@@ -65,4 +65,4 @@
 #### [【一线采访】粤民众游青岛 返家遭强制隔离](../pages/nf4514/n12473548.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nf4514-earlier.md?t=10180751)

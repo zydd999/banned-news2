@@ -3,15 +3,15 @@
 #### [央视抛登陆演习影片恐吓台湾 被揭5年前就播过](../pages/prog204/a102965515.md?t=10180702) 
 #### [官媒信誉破产 中共发展“融媒体”进驻微信抖音](../pages/prog204/a102965501.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [寻花问柳不写日记 广东党校培训“领导十诫”曝光](../pages/prog204/a102965489.md?t=10180702) 
 #### [江苏师大爆发肺结核疫情 校方下封口令](../pages/prog204/a102965368.md?t=10180702) 
 #### [香港抗争名人“王婆婆”亲诉经历：差点死在大陆](../pages/prog204/a102965301.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [【疫情更新30】广州度假村被封 内江一医院封楼](../pages/prog204/a102956083.md?t=10180702) 
 #### [“五中全会”前打虎 能源副局长刘宝华被查](../pages/prog204/a102965292.md?t=10180702) 
 #### [北京上海托福名额5分钟抢光 网民：不跑来不及了](../pages/prog204/a102965285.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [9月份至少964名法轮功学员被绑架骚扰](../pages/prog204/a102965280.md?t=10180702) 
 #### [拜登之子又遭举报 牵出中共“第二外交部”](../pages/prog204/a102965204.md?t=10180702) 
 #### [习近平“咳嗽”后匆匆回京 外界猜测三大意外](../pages/prog204/a102965217.md?t=10180702) 
@@ -32,4 +32,4 @@
 #### [中共2018年文件：将西方驻华使馆定为敌对势力](../pages/prog204/a102964749.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/prog204-earlier.md?t=10180751)

@@ -3,15 +3,15 @@
 #### [中共发人质威胁信号 拟报复美起诉中共学者](../pages/nsc413/n12483109.md?t=10180702) 
 #### [药品回扣泛滥 大陆医疗暴利惊人](../pages/nsc413/n12483388.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [河南许昌市中级法院宋世旭等两法官被查](../pages/nsc413/n12482834.md?t=10180702) 
 #### [中共高调反美 京沪托福考位名额5分钟抢光](../pages/nsc413/n12483265.md?t=10180702) 
 #### [iPhone 12大陆预售抢崩官网 破“抵制”假象](../pages/nsc413/n12483240.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [台港人士被电视认罪 专家：中共是恐怖组织](../pages/nsc413/n12482659.md?t=10180702) 
 #### [中共通辽市前常委搞权色交易 疫情时聚众赌博](../pages/nsc413/n12483031.md?t=10180702) 
 #### [丑闻再发酵 传拜登是电邮所指的“大人物”](../pages/nsc413/n12483050.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [中共军机再侵入台湾空域 3天内5度被驱离](../pages/nsc413/n12482995.md?t=10180702) 
 #### [【拍案惊奇】拜登家族通共？习为何突然回京](../pages/nsc413/n12482472.md?t=10180702) 
 #### [法轮功学员黄华杰狱中被倒立撞地 伤情严重](../pages/nsc413/n12481242.md?t=10180702) 
@@ -63,4 +63,4 @@
 #### [【直播预告】川普拜登第二场辩论 精彩可期](../pages/nsc413/n12476064.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc413-earlier.md?t=10180751)

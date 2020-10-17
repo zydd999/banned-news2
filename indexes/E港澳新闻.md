@@ -3,15 +3,15 @@
 #### [【珍言真语】邹家成：营救12港人 感受中共邪恶](../pages/nsc415/n12481119.md?t=10180702) 
 #### [台军机无端被拒途经港空域 飞东沙中途折返](../pages/nsc415/n12479530.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [借议办作票站遭拒 卢俊宇追讨民政处七万欠款](../pages/nsc415/n12479514.md?t=10180702) 
 #### [香港政府促酒店业监管设施使用人数](../pages/nsc415/n12479498.md?t=10180702) 
 #### [【役情最前线】传军队将领对习不满](../pages/nsc415/n12478711.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [【珍言真语】林晓旭：检测作秀 大陆疫情变政绩](../pages/nsc415/n12478385.md?t=10180702) 
 #### [BTS受辱掀国际反华情绪 《环球时报》删文急降温](../pages/nsc415/n12476814.md?t=10180702) 
 #### [香港政府拟十年增五天劳工假 劳顾会未有共识](../pages/nsc415/n12476851.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [九龙城区议会拒邓炳强到访](../pages/nsc415/n12476812.md?t=10180702) 
 #### [惩教署扣起612基金年报 港议员不满阻挠通讯](../pages/nsc415/n12476763.md?t=10180702) 
 #### [香港政府强逼公务员宣誓效忠](../pages/nsc415/n12476709.md?t=10180702) 
@@ -65,4 +65,4 @@
 #### [【有冇搞错】面对九大威胁 美国将对中共更强硬](../pages/nsc415/n12459873.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc415-earlier.md?t=10180751)

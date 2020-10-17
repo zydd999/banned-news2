@@ -3,15 +3,15 @@
 #### [美10月22日总统辩论会 将聚焦六大议题](../pages/nsc412/n12483384.md?t=10180702) 
 #### [【横河观点】习近平学毛邓？陷入自相矛盾](../pages/nsc412/n12482434.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [“打倒中共恶魔”全球征签 超12万人连署](../pages/nsc412/n12482605.md?t=10180702) 
 #### [美国印度裔大厨为五千万印度人提供免费餐](../pages/nsc412/n12482869.md?t=10180702) 
 #### [【快讯】美弗吉尼亚州发生爆炸 引发大火](../pages/nsc412/n12483146.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [丑闻再发酵 传拜登是电邮所指的“大人物”](../pages/nsc412/n12483050.md?t=10180702) 
 #### [白宫女发言人染疫痊愈 晒宝贝女儿可爱靓照](../pages/nsc412/n12482951.md?t=10180702) 
 #### [【十字路口】拜登家再爆通共门 中共渗透联合国](../pages/nsc412/n12482835.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [【拍案惊奇】拜登家族通共？习为何突然回京](../pages/nsc412/n12482472.md?t=10180702) 
 #### [组图：川普再到佛州造势 预料将掀投票热潮](../pages/nsc412/n12482561.md?t=10180702) 
 #### [田云: 脸书推特禁传拜登丑闻 轩然大波的背后](../pages/nsc412/n12482393.md?t=10180702) 
@@ -65,4 +65,4 @@
 #### [栩栩如生 美艺术家为川普雕刻九英尺白头鹰](../pages/nsc412/n12480174.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/nsc412-earlier.md?t=10180751)

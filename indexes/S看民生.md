@@ -3,15 +3,15 @@
 #### [加118团体吁禁中共官员直系亲属来加拿大(图)](../pages/p3/949521.md?t=10180702) 
 #### [“我明天一定会被开除”泰记者一夜爆红(图)](../pages/p3/949499.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [中国留学生返美 因OPT在机场被拒入境(图)](../pages/p3/949471.md?t=10180702) 
 #### [美国务卿重申关闭所有孔子学院 中国网民叫好(图)](../pages/p3/949491.md?t=10180702) 
 #### [巴西贪官将3万现金藏内裤 被当场识破(图)](../pages/p3/949466.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [日本只为一个孩子开设的学校(组图)](../pages/p3/949498.md?t=10180702) 
 #### [海内外华人自由派为什么倒戈拥护川普？(图)](../pages/p3/949567.md?t=10180702) 
 #### [加118团体吁禁中共官员直系亲属来加拿大(图)](../pages/p3/949521.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [“我明天一定会被开除”泰记者一夜爆红(图)](../pages/p3/949499.md?t=10180702) 
 #### [中国留学生返美 因OPT在机场被拒入境(图)](../pages/p3/949471.md?t=10180702) 
 #### [美国务卿重申关闭所有孔子学院 中国网民叫好(图)](../pages/p3/949491.md?t=10180702) 
@@ -30,4 +30,4 @@
 #### [华人亲历飞回广州：听天由命隔离难熬(图)](../pages/p3/949192.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/p3-earlier.md?t=10180751)

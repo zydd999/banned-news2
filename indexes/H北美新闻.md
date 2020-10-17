@@ -3,15 +3,15 @@
 #### [《追查国际》立案追查迫害大连任海飞的一切责任人](../pages/soh6/433237.md?t=10180702) 
 #### [章天亮: 拜登“硬盘门”左媒大封杀 美选民成愤怒的大多数](../pages/soh6/433231.md?t=10180702) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md) &nbsp;&nbsp;|&nbsp;&nbsp; 
+#### [新闻拍案惊奇](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [江峰时刻](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [文昭谈古论今](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [天亮时分](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [萧茗看世界](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; [北京老茶馆](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md?t=10180751) &nbsp;&nbsp;|&nbsp;&nbsp; 
 #### [小川普：亨特的私企从中共获取15亿美元资金](../pages/soh6/433219.md?t=10180702) 
 #### [美国安顾问：中共在新疆所为类似于“种族灭绝罪"](../pages/soh6/433210.md?t=10180702) 
 #### [“硬盘门”再爆：拿中共华信10%股的“大人物”正是拜登](../pages/soh6/433222.md?t=10180702) 
-#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) 
+#### [>>> 我要声明退出共产党、共青团、少年队 <<<](https://github.com/begood0513/goodnews/blob/master/quit/letter.md?t=10180751) 
 #### [美媒：赵立坚抛美军播毒论 川普愤怒到了极点](../pages/soh6/433102.md?t=10180702) 
 #### [前合伙人揭亨特曾借父亲拜登职务 助中共对美“软外交”](../pages/soh6/432982.md?t=10180702) 
 #### [共和党议员：FBI是否在弹劾总统期间已获拜登腐败证据？](../pages/soh6/432970.md?t=10180702) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md?t=10180751)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md?t=10180751) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md?t=10180751) 
 #### [美应对中共委员会：美国要增强竞争力 三方抵制中共](../pages/soh6/432931.md?t=10180702) 
 #### [江峰: 陷“通乌门”  拜登退选是民主党首选？](../pages/soh6/432940.md?t=10180702) 
 #### [爱荷华选民：对抗疫情 没人可以比川普做得更好](../pages/soh6/432928.md?t=10180702) 
@@ -24,4 +24,4 @@
 #### [孔子学院或命不久矣 蓬佩奥：年底前必须全关！](../pages/soh6/432793.md?t=10180702) 
 
 ----
-#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md?t=10180751)
